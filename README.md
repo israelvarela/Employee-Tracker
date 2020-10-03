@@ -1,5 +1,8 @@
 # Employee Tracker
 
+![Screen Shot 2020-10-03 at 5 53 32 PM](https://user-images.githubusercontent.com/62815477/95003774-4bd7a380-05a8-11eb-8327-2d7b92c2b811.png)
+
+
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. The challenge here was to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
 ## Instructions
