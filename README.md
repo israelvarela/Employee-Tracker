@@ -3,6 +3,7 @@
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. The challenge here was to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
 ## Instructions
+<img width="736" alt="schema 3" src="https://user-images.githubusercontent.com/62815477/95003765-2480d680-05a8-11eb-8fac-b74a3abd8928.png">
 
 Design the following database schema containing three tables:
 
